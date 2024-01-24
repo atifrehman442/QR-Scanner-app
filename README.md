@@ -2,11 +2,16 @@
 
  Flutter project.
 
- #Feature
+ # Feature
+ 
  .Change Theme
+ 
  .Scan the QR code
+ 
  .Output search web
+ 
  .Generate QR code
+ 
  .Download the QR code image
  
 # OutPut Screen
