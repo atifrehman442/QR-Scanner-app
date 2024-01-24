@@ -2,8 +2,17 @@
 
  Flutter project.
 
-## OutPut Screen
-![Screenshot_20240124-151456](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/8f8a1b98-b898-4a56-ae3f-fec2ee4bb0e1)
+ #Feature
+ .Change Theme
+ .Scan the QR code
+ .Output search web
+ .Generate QR code
+ .Download the QR code image
+ 
+# OutPut Screen
+![Screenshot_20240124-151456](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/8f8a1b98-b898-4a56-ae3f-fec2ee4bb0e1) 
+
+![Screenshot_20240124-151523](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/46cb1f60-3843-43c9-ad47-993ff8193ac5)
 
 ![Screenshot_20240124-151523](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/46cb1f60-3843-43c9-ad47-993ff8193ac5)
 
