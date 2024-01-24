@@ -1,16 +1,15 @@
-# qr_scanner
+# Qr_scanner
 
-A new Flutter project.
+ Flutter project.
 
-## Getting Started
+## OutPut Screen
+![Screenshot_20240124-151456](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/8f8a1b98-b898-4a56-ae3f-fec2ee4bb0e1)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20240124-151523](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/46cb1f60-3843-43c9-ad47-993ff8193ac5)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20240124-151640](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/70064bf8-5ef4-4d8c-9b21-2ac6e645da4d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20240124-151653](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/f83ad38d-9d6b-419c-b197-18ee3d1ef029)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240124-151705](https://github.com/atifrehman442/QR-Scanner-app/assets/78613062/9934d53c-e9d0-46a8-9ea7-672748f31a5b)
+
